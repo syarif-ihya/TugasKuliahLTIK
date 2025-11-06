@@ -1,0 +1,1 @@
+print("tahap 1 - membuat repo github ")
